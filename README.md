@@ -53,7 +53,7 @@ C# projects written in C#
 
 25º - [C# Nunit MySql 2](https://github.com/vini-insight/Csharp_W_CSF_2)
 
-26º - [C# Nunit MySql](https://github.com/vini-insight/CSharp_Nunit_MySql)
+<!-- 26º - [C# Nunit MySql](https://github.com/vini-insight/CSharp_Nunit_MySql) -->
 
 27º - []()
 28º - []()
